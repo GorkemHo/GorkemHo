@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Görkem and I'm a .Net Developer, from Istanbul.</p>
+<p align="left">My name is Görkem and I'm a FullStack Developer, from Istanbul.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning .Net at Bilge Adam.<br>🎯 Goals: Becoming a successful software developer.</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently studying at Bilge Adam.<br>🎯 Goal: Becoming a successful software developer.</p>
 
 ###
 
