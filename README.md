@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently studying at Bilge Adam.<br>🎯 Goal: Becoming a successful software developer.</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently working at Titconn Tech.<br>🎯 Goal: Becoming a successful software developer.</p>
 
 ###
 
@@ -19,6 +19,10 @@
 ###
 
 <div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40"/>
+  <img width="12" />
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="40" alt="angular" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
