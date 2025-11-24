@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My Private Contributes - SS at 24.11.2025
+<h2 align="left">My Private Contributes</h2>
 <img width="910" height="215" alt="2025-11-24 200427" src="https://github.com/user-attachments/assets/8e876e99-fd66-47ac-90b2-9b064da1b03f" />
 <img width="910" height="215" alt="2025-11-24 200837" src="https://github.com/user-attachments/assets/59452782-123a-43bf-b877-e6402e18a90e" />
 <img width="910" height="215" alt="2025-11-24 200439" src="https://github.com/user-attachments/assets/0fccf543-0472-45a5-8fa1-5708056d4978" />
